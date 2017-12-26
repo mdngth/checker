@@ -6,7 +6,7 @@ import sys
 
 g_log_file = 'checker.log'
 g_dt = datetime.now()
-g_log_size = 1 # Mb
+g_log_size = 3 # Mb
 
 for p in psutil.process_iter():
   #if p.pid != 0 and p.pid != 4:
