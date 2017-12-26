@@ -1,0 +1,15 @@
+{
+  "miners": {
+    "ccminer": {
+      "home_dir": "",
+      "exe_path": "",
+      "proc_name": ""
+    }
+  },
+  "pools": {
+    "flypool": {
+      "miner": "ZecMiner",
+      "run_string": "-zpool eu1-zcash.flypool.org:3333 -zwal t1YZMnyXStuGKykkFxM6Lh8DTVJdTMx6R51.YourWorkerName -zpsw x"
+    }
+  }
+}
