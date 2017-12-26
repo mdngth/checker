@@ -1,0 +1,4 @@
+26.12.2017 15:25:29[ERROR] FIND_PROC: <class 'psutil._exceptions.AccessDenied'>: psutil.AccessDenied (pid=4, name='System')
+26.12.2017 15:25:31[ERROR] FIND_PROC: <class 'psutil._exceptions.AccessDenied'>: psutil.AccessDenied (pid=4, name='System')
+26.12.2017 15:25:33[ERROR] FIND_PROC: <class 'psutil._exceptions.AccessDenied'>: psutil.AccessDenied (pid=4, name='System')
+26.12.2017 15:26:06 [ERROR] FIND_PROC: <class 'psutil._exceptions.AccessDenied'>: psutil.AccessDenied (pid=4, name='System')
