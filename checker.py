@@ -35,6 +35,7 @@ def find_proc(p_name):
         v_cmdline = p.cmdline()
       except:
         logger('ERROR', 'FIND_PROC', str(sys.exc_info()[0]) + ': ' + str(sys.exc_info()[1]))
+        # возвращаем -2, т.к. произошло что-то непредвиденное на этапе получения информации о процессе
         return -2, ''
       #
       return v_pid, v_exe, v_cmdline
